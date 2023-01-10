@@ -1,7 +1,7 @@
 # Email-Sender-Bot
 First off all, clone this repo using the command
 ```
-$ git clone https://github.com/hiijitesh/Email-Sender-Bot.git
+$ git clone https://github.com/Vinishbhaskar/Python-Email-Sender.git
 ```
 <p>This script will sent message with Resume file so keep your resume in root director of "Email-Sender-Bot" which you have cloned </p>
 <p> You Have to paste your message in 'msg.py' file manually with variable-name 'company_name', in case you wanted to mention it followed by variable 'subject'.</p>
